@@ -1,43 +1,17 @@
-# SIE · Prototipo navegable
+# SIE — Prototipo navegable
 
-Prototipo HTML estático del MVP de **Servicios Integrales para la Educación (SIE)**.
+Prototipo estático responsive de Servicios Integrales para la Educación (SIE), basado en la maqueta visual de referencia y en el alcance funcional del MVP.
 
-## Incluye
+## Abrir localmente
+Abre `index.html` en Chrome, Edge o Safari.
 
-- Landing pública
-- Registro / acceso
-- Onboarding, dashboard y perfil de candidato
-- Gold / Premium
-- Registro, membresía y dashboard institucional
-- Buscador de talento
-- Ficha protegida y solicitud de contacto
-- Head hunting
-- Back office administrador: usuarios, Premium, contactos, pagos/facturación y publicidad
+## Publicar en GitHub Pages
+1. Sube el contenido de esta carpeta a la raíz de un repositorio.
+2. Settings → Pages.
+3. Deploy from a branch → `main` → `/(root)`.
 
-## Uso local
-
-Abra `index.html` en cualquier navegador moderno. No requiere servidor ni instalación.
-
-## GitHub Pages
-
-Este repositorio es compatible con GitHub Pages porque es HTML/CSS/JS estático y no requiere build.
-
-1. Subir los archivos a un repositorio.
-2. En GitHub: **Settings → Pages**.
-3. Seleccionar **Deploy from a branch**.
-4. Elegir `main` y `/ (root)`.
-5. Guardar.
+## Responsive
+Diseñado para escritorio, tablet y teléfonos desde aproximadamente 360 px.
 
 ## Nota
-
-Todos los datos son ficticios y están pensados exclusivamente para presentación del producto.
-
-## Uso en teléfono y tablet
-
-El prototipo es responsive y está optimizado para pantallas desde 360 px de ancho.
-
-- En móvil, el menú lateral se convierte en un menú deslizable accesible desde el botón ☰.
-- Formularios, dashboards y tarjetas se apilan en una columna.
-- Las tablas administrativas permiten desplazamiento horizontal para conservar toda la información.
-- Los botones y campos usan tamaños cómodos para interacción táctil.
-- Puede abrirse directamente en el navegador del teléfono si se publica en GitHub Pages.
+Todos los datos y perfiles son ficticios y se usan únicamente para la demostración del sistema.
